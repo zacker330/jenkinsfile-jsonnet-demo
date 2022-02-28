@@ -1,0 +1,8 @@
+{
+  "name": "first pipeline in json",
+  "steps": [
+    {
+      "command": "echo \"abc\""
+    }
+  ]
+}
