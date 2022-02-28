@@ -1,3 +1,3 @@
-@Library('main') _
+@Library('main@main') _
 
 evenOrOdd(currentBuild.getNumber())
